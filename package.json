@@ -14,7 +14,7 @@
   "name": "lessafrim",
   "description": "Welcome to the repository for my side project website dedicated to Lesserafim! This project showcases my skills in CSS and JavaScript while paying tribute to the iconic Levi's brand. Below, you'll find an overview of the CSS styles and JavaScript functionalities used in this project.",
   "version": "1.0.0",
-  "main": "landingPage.js",
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "devDependencies": {
